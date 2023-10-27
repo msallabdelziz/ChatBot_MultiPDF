@@ -1,0 +1,28 @@
+# Fichiers générés par Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers générés par environnement virtuel
+venv/
+env/
+ENV/
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*~
+
+# Fichiers d'environnement (par exemple, .env contenant des variables d'environnement)
+.env
+
+# Fichiers de configuration de l'éditeur (par exemple, VSCode)
+.vscode/
+
+# Dossiers et fichiers spécifiques à l'IDE ou aux outils
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.pycharm/
+*.vscode/
