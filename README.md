@@ -4,7 +4,7 @@ Ce chatbot permettra de répondre aux questions des utilisateurs en extrayant de
 ChatBot avec multiple PDF
 cette applicaton de chatbot pour les PDF multiples, est une soluton innovante qui améliore la capacité de recherche et simplifie le processus d'extracton d'informatons à partr de documents PDF. Il propose une architecture modulaire comprenant une interface utlisateur, une compréhension du langage naturel, un stockage vectoriel, des embeddings, et des modèles de langage de grande taille (LLMs). Le chatbot peut interpréter des requêtes en langage naturel, récupérer efficacement des informatons dans les documents PDF, et maintenir la cohérence contextuelle dans les conversatons.
 
-
+# L'architecture 
 
 ![Design sans titre (1)](https://github.com/msallabdelziz/ChatBot_MultiPDF/assets/103082517/a7220f2c-46d0-4d47-9544-58226be1ac9b)
 
@@ -17,7 +17,7 @@ C’est une applicaton Python qui nous permet de discuter avec plusieurs documen
 ![Design sans titre (2)](https://github.com/msallabdelziz/ChatBot_MultiPDF/assets/103082517/cf26b1e4-ed3c-487d-adb9-716bcb6f4cc5)
 
    
-Fonctonnement :
+# Fonctonnement :
  L'applicaton suit ces étapes pour fournir des réponses aux questons :
 1. Chargement des PDF : L'applicaton lit plusieurs documents PDF et extrait leur contenu textuel.
 2. Découpage du Texte : Le texte extrait est divisé en petts fragments qui peuvent être traités efficacement.
