@@ -4,6 +4,11 @@ __pycache__/
 *.pyo
 *.pyd
 
+#Composer 
+composer-setup.php
+README.md
+
+
 # Fichiers générés par environnement virtuel
 venv/
 env/
